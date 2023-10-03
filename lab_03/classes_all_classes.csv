@@ -1,0 +1,13 @@
+_id,_class,_name
+0,ground,ground
+1,frontglottis,frontglottis
+2,vfright_normal,vfright_normal
+3,vfleft_normal,vfleft_normal
+4,vfright_rln_R,vfright_rln_R
+5,vfleft_rln_R,vfleft_rln_R
+6,vfright_rln_L,vfright_rln_L
+7,vfleft_rln_L,vfleft_rln_L
+8,vfright_rsln_R,vfright_rsln_R
+9,vfleft_rsln_R,vfleft_rsln_R
+10,vfright_rsln_L,vfright_rsln_L
+11,vfleft_rsln_L,vfleft_rsln_L

@@ -1,0 +1,15 @@
+Now checking in data_220926/RSLN_L/組7_RSLN_data 8_2578512_F_L_73_20161125
+in image_311.json "vfright" is lost
+in image_336.json "vfright" is lost
+Now checking in data_220926/RSLN_L/組9_RSLN_data 10_1743701_F_L_57_20181102
+in image_33.json "vfleft" is lost
+Now checking in data_220926/RSLN_L/組5_RSLN_data_6_2249466_M_L_52_20160805
+Now checking in data_220926/NORMAL_TEST/G3_21_正常人
+in 292.json "vfleft" is lost
+Now checking in data_220926/RSLN_R/組12_RSLN_data 15_69893_M_R_83_20140418
+in image_109.json "vfleft" is lost
+Now checking in data_220926/RSLN_R/組13_RSLN_data 30_2020938_F_R_23_20170310
+in image_631.json "vfleft" is lost
+in image_632.json "vfleft" is lost
+in image_633.json "vfleft" is lost
+in image_634.json "vfleft" is lost
